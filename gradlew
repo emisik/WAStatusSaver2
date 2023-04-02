@@ -172,3 +172,4 @@ fi
 exec "$JAVACMD" "$@"
 
  println("Experiment")
+ println("second experiment")
